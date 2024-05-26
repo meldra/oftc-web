@@ -22,6 +22,11 @@
       "nick": "dwfreed",
       "roles": { "noc": true }
     },
+    "el": {
+      "name": "Mellisa Draper",
+      "nick": "el",
+      "roles": { "netrep": true }
+    },
     "rnowak": {
       "name": "Robert A. Nowak",
       "nick": "rnowak",
