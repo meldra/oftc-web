@@ -70,7 +70,7 @@ see:
 - <https://www.devever.net/~hl/freenode_suicide>
 
 The original freenode staff have created and moved to libera.chat, and most
-freenode users have followed. <https://isfreenodedeadyet.com/>
+freenode users have followed.
 
 Someone(s) is capitalizing on this drama to spam as many channels on as many
 IRC networks as possible. Their motivation is unknown, but it's probably to
