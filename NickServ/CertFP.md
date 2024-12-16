@@ -71,6 +71,25 @@ step-by-step howto about it, and we will include it. Either grab a staff member
 from #oftc or send a mail to our support address support@oftc.net  with the
 information needed. Thank you.
 
+### soju ###
+
+Soju does not use self-generated certificates. Instead, it generates and installs its own for you.
+
+To generate a certificate from within soju, message BouncerServ:
+
+{% highlight text %}
+/msg BouncerServ certfp generate -network [Network name]
+{% endhighlight %}
+
+Then all that is left to do is to reconnect:
+
+{% highlight text %}
+/msg BouncerServ network update [Network name]
+{% endhighlight %}
+
+To continue please scroll down to [read how to add your certificates fingerprint
+to NickServ.](#AddCertFPtoNS)
+
 ### irssi ###
 
 Move the certificates you created some where safe, for example ~/.irssi/certs.
